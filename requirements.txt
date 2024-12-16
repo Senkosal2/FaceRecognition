@@ -1,0 +1,5 @@
+opencv-python #general purpose for face detection|recognition
+#opencv-contrib-python #additional opencv lib with advanced features
+deepface #for emotion expression on face
+tf_keras #somewhat require
+face_recognition #for face recognition
